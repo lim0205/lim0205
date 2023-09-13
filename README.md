@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 소프트웨어학과 23학번 이예림입니다. 👋
 
 <!--
 **lim0205/lim0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
